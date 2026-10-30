@@ -4,3 +4,5 @@ pytz
 motor
 aiohttp
 git+https://github.com/TechifyBots/Kurikit.git
+Pillow
+hachoir
